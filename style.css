@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+h2{
+    color: brown;
+    text-shadow: 1px 2px 3px #00ffff;
+}
